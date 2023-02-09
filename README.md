@@ -1,5 +1,5 @@
 
-# Ambientes únicos para você!
+# Treinos exclusivos para você!
 
 Projeto de um site para divulgar um serviço de treinos especializados com links e contato via whatsapp!
 
