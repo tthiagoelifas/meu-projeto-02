@@ -13,5 +13,5 @@ Projeto de um site para divulgar um serviço de treinos especializados com links
 
 ## Screenshots
 
-![preview](./Imagens/Screenshot_5.png)
+![preview](./assets/Screenshot_5.png)
 
