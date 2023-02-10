@@ -15,3 +15,9 @@ Projeto de um site para divulgar um serviço de treinos especializados com links
 
 ![preview](./assets/Screenshot_5.png)
 
+
+## Site do Projeto
+
+
+[Link do Projeto](https://tthiagoelifas.github.io/meu-projeto-02/)
+
